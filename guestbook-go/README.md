@@ -22,5 +22,5 @@ This repository contains the solution to the Kubernetes assignment, which includ
 
 - ## Proof of Completion
 - ![Screenshot (247)](https://github.com/user-attachments/assets/9c474014-b7d7-4975-b78b-784355412d3c)
-- ![Screenshot (248)](https://github.com/user-attachments/assets/ed0e58bd-4092-4b8c-9d27-530f5823d9a0)
-- ![Screenshot (248)](https://github.com/user-attachments/assets/dd039452-bd5b-4cb3-94ac-a7922bd13edb)
+- ![image](https://github.com/user-attachments/assets/7ef552ef-5be2-45a5-9dfc-159d4e6f0965)
+
