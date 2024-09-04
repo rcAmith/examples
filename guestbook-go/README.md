@@ -21,6 +21,7 @@ This repository contains the solution to the Kubernetes assignment, which includ
 - Service: Exposed the application using a NodePort service.
 
 - ## Proof of Completion
-- ![Screenshot (247)](https://github.com/user-attachments/assets/9c474014-b7d7-4975-b78b-784355412d3c)
+- ![Screenshot (247)](https://github.com/user-attachments/assets/9ee9051d-6604-4d2f-acd5-bc11d97feca1)
+
 - ![image](https://github.com/user-attachments/assets/7ef552ef-5be2-45a5-9dfc-159d4e6f0965)
 
