@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: guestbook-go
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: guestbook-go
+  template:
+    metadata:
+      labels:
+        app: guestbook-go
+    spec:
+      containers:
+      - name: guestbook-go
+        image: rcamith/my-app-image:latest
+        ports:
+        - containerPort: 3000
